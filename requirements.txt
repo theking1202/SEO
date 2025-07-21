@@ -1,0 +1,5 @@
+mistune
+fastapi
+pydantic
+google
+google.genai
