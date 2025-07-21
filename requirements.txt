@@ -1,5 +1,6 @@
 mistune
 fastapi
+uvicorn
 pydantic
 google
 google.genai
