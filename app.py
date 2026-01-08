@@ -8,7 +8,7 @@ from google import genai
 from google.genai import types
 
 # Lấy API Key từ biến môi trường
-GEMINI_API_KEY = "AIzaSyDTVjgu1oMUmST_wz9cFtvjNJ-mEP21v0Q"
+GEMINI_API_KEY = "AIzaSyC7CWA10HBSAKETTSWy4dDYRbO9uAfwwnA"
 
 # Khởi tạo client Gemini
 client = genai.Client(api_key=GEMINI_API_KEY)
